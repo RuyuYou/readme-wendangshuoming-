@@ -10,6 +10,6 @@
 - print animals snapShot —— 输出最终结果
 
 ##如何运行测试
-1. 将Jasmine测试的数据包拷贝到题目所在的文件夹中放于lib文件夹中
-2. 创建了一个main_run.html的文件，将实现代码main.js与测试代码main_spec.js引入html中
-3. 运行main_run.html文件在网页中进行测试
+1. 将 Jasmine 测试的数据包拷贝到题目所在的文件夹中,放于 lib 文件夹中
+2. 创建了一个 main_run.html 的文件，将实现代码 main.js 与测试代码 main_spec.js 引入 html 中
+3. 运行 main_run.html文件 在网页中进行测试
