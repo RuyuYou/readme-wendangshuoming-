@@ -12,4 +12,4 @@
 ##如何运行测试
 1. 将Jasmine测试的数据包拷贝到题目所在的文件夹中放于lib文件夹中
 2. 创建了一个main_run.html的文件，将实现代码main.js与测试代码main_spec.js引入html中
-3. 运行html文件在网页中进行测试
+3. 运行main_run.html文件在网页中进行测试
